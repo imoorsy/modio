@@ -29,17 +29,17 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/modio.git
 2. Navigate to the Project:
-```bash
-cd modio
-```
+   ```bash
+   cd modio
+   ```
 3. Install Dependencies:
-```bash
-flutter pub get
-```
+   ```bash
+   flutter pub get
+   ```
 4. Run the App:
-```bash
-flutter run
-```
+   ```bash
+   flutter run
+   ```
 Dependencies
 This project uses the following key dependencies:
 
